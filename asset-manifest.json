@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactRouterWithNavbar/static/css/main.e7652988.css",
-    "main.js": "/reactRouterWithNavbar/static/js/main.c26aef91.js",
+    "main.js": "/reactRouterWithNavbar/static/js/main.73c56df9.js",
     "static/js/787.8fedd6c6.chunk.js": "/reactRouterWithNavbar/static/js/787.8fedd6c6.chunk.js",
     "static/media/brand-icons.svg": "/reactRouterWithNavbar/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/reactRouterWithNavbar/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -21,11 +21,11 @@
     "static/media/outline-icons.woff2": "/reactRouterWithNavbar/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/reactRouterWithNavbar/index.html",
     "main.e7652988.css.map": "/reactRouterWithNavbar/static/css/main.e7652988.css.map",
-    "main.c26aef91.js.map": "/reactRouterWithNavbar/static/js/main.c26aef91.js.map",
+    "main.73c56df9.js.map": "/reactRouterWithNavbar/static/js/main.73c56df9.js.map",
     "787.8fedd6c6.chunk.js.map": "/reactRouterWithNavbar/static/js/787.8fedd6c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7652988.css",
-    "static/js/main.c26aef91.js"
+    "static/js/main.73c56df9.js"
   ]
 }
